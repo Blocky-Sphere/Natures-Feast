@@ -1,5 +1,8 @@
 package net.blockysphere.naturesfeast;
 
+import net.blockysphere.naturesfeast.block.ModBlocks;
+import net.blockysphere.naturesfeast.item.ModItemGroups;
+import net.blockysphere.naturesfeast.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +14,8 @@ public class NaturesFeast implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
+        ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
+        ModItemGroups.registerItemGroups();
     }
 }
