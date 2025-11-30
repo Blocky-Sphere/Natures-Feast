@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "naturesfeast",
+	"version": "${version}",
+	"name": "[Let's Do] Nature's Feast",
+	"description": "Go for a hunt and enjoy the delicious meals! :)",
+	"authors": [
+		"Blocky_Sphere!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/naturesfeast/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.blockysphere.naturesfeast.NaturesFeast"
+		],
+		"client": [
+			"net.blockysphere.naturesfeast.NaturesFeastClient"
+		],
+		"fabric-datagen": [
+			"net.blockysphere.naturesfeast.NaturesFeastDataGenerator"
+		]
+	},
+	"mixins": [
+		"naturesfeast.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
