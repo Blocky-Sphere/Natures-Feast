@@ -8,6 +8,11 @@
           "type": "minecraft:item",
           "name": "naturesfeast:snail"
         }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
       ]
     },
     {

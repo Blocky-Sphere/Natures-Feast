@@ -3,6 +3,8 @@ package net.blockysphere.naturesfeast;
 import net.blockysphere.naturesfeast.block.ModBlocks;
 import net.blockysphere.naturesfeast.item.ModItemGroups;
 import net.blockysphere.naturesfeast.item.ModItems;
+import net.blockysphere.naturesfeast.util.ModCustomTrades;
+import net.blockysphere.naturesfeast.villager.ModVillagers;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -17,5 +19,7 @@ public class NaturesFeast implements ModInitializer {
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
         ModItemGroups.registerItemGroups();
+        ModVillagers.registerVillagers();
+        ModCustomTrades.registerCustomTrades();
     }
 }

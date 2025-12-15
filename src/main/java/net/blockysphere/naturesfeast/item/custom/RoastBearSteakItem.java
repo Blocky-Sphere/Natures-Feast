@@ -2,7 +2,6 @@ package net.blockysphere.naturesfeast.item.custom;
 
 import net.blockysphere.naturesfeast.block.ModBlocks;
 import net.minecraft.client.item.TooltipContext;
-import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -11,31 +10,14 @@ import net.minecraft.item.ItemUsageContext;
 import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Formatting;
-import net.minecraft.util.Identifier;
 import net.minecraft.world.World;
-import net.minecraft.registry.Registries;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
-public class EscargotsSnailsItem extends BlockItem {
-    private static final Identifier SHELL_ID = new Identifier("naturalist", "snail_shell");
-    public EscargotsSnailsItem(Item.Settings settings) {
-        super(ModBlocks.ESCARGOTS_SNAILS_PLACED, settings);
-    }
-    @Override
-    public ItemStack finishUsing(ItemStack stack, World world, LivingEntity user) {
-        ItemStack result = super.finishUsing(stack, world, user);
-        if (user instanceof PlayerEntity player && !world.isClient) {
-            var shellItem = Registries.ITEM.get(SHELL_ID);
-            if (shellItem != null && shellItem != net.minecraft.item.Items.AIR) {
-                ItemStack shells = new ItemStack(shellItem, 2);
-                if (!player.getInventory().insertStack(shells)) {
-                    player.dropItem(shells, false);
-                }
-            }
-        }
-        return result;
+public class RoastBearSteakItem extends BlockItem {
+    public RoastBearSteakItem(Item.Settings settings) {
+        super(ModBlocks.ROAST_BEAR_STEAK_PLACED, settings);
     }
     @Override
     public ActionResult useOnBlock(ItemUsageContext context) {
@@ -45,6 +27,7 @@ public class EscargotsSnailsItem extends BlockItem {
         }
         return super.useOnBlock(context);
     }
+
     @Override
     public void appendTooltip(ItemStack stack, @Nullable World world, List<Text> tooltip, TooltipContext context) {
         tooltip.add(Text.translatable("tooltip.naturesfeast.empty.tooltip"));

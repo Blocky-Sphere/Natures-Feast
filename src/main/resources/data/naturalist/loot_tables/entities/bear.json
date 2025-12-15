@@ -25,6 +25,25 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "naturesfeast:bear_claw",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "min": 0, "max": 1}
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": { "min": 0, "max": 1 }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "naturesfeast:bear_meat",
           "functions": [
             {

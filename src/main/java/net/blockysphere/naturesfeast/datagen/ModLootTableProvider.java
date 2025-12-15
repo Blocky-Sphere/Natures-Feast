@@ -26,6 +26,9 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     @Override
     public void generate() {
 
+        addDrop(ModBlocks.ROAST_BEAR_STEAK_PLACED);
+        addDrop(ModBlocks.ESCARGOTS_SNAILS_PLACED);
+
         // Chili Pepper Crop Drop
         BlockStatePropertyLootCondition.Builder ChiliMatureCondition = BlockStatePropertyLootCondition.builder(ModBlocks.CHILI_PEPPER_CROP)
                 .properties(StatePredicate.Builder.create().exactMatch(ChiliPepperCropBlock.AGE, 5));

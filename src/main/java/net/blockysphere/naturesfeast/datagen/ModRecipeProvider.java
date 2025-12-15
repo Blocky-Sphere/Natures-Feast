@@ -79,7 +79,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
         container1.addProperty("item", "minecraft:bowl");
         RoastBearRecipeJson.add("container", container1);
         JsonObject roast_bear_meat_result = new JsonObject();
-        roast_bear_meat_result.addProperty("item", "naturesfeast:roast_bear_meat");
+        roast_bear_meat_result.addProperty("item", "naturesfeast:roast_bear_steak");
         roast_bear_meat_result.addProperty("count", 1);
         RoastBearRecipeJson.add("result", roast_bear_meat_result);
         RoastBearRecipeJson.addProperty("requiresLearning", false);
@@ -88,7 +88,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
             public void serialize(JsonObject json) {RoastBearRecipeJson.entrySet().forEach(entry -> json.add(entry.getKey(), entry.getValue()));}
             @Override
             public Identifier getRecipeId() {
-                return new Identifier("naturesfeast", "roast_bear_meat");
+                return new Identifier("naturesfeast", "roast_bear_steak");
             }
             @Override
             public RecipeSerializer<?> getSerializer() {

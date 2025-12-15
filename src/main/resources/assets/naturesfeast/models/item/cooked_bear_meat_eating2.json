@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "naturesfeast:item/cooked_bear_meat"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eating": 0.5
+      },
+      "model": "naturesfeast:item/cooked_bear_meat_eating2"
+    }
+  ]
+}

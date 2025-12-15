@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    { "when": { "north": true }, "apply": { "model": "naturesfeast:block/piper_nigrum" } },
+    { "when": { "east":  true }, "apply": { "model": "naturesfeast:block/piper_nigrum", "y": 90,  "uvlock": true } },
+    { "when": { "south": true }, "apply": { "model": "naturesfeast:block/piper_nigrum", "y": 180, "uvlock": true } },
+    { "when": { "west":  true }, "apply": { "model": "naturesfeast:block/piper_nigrum", "y": 270, "uvlock": true } },
+    { "when": { "up":    true }, "apply": { "model": "naturesfeast:block/piper_nigrum", "x": 270, "uvlock": true } },
+
+    { "when": { "north": false, "east": false, "south": false, "west": false, "up": false },
+      "apply": { "model": "naturesfeast:block/piper_nigrum" } }
+  ]
+}
