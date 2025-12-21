@@ -2,7 +2,6 @@ package net.blockysphere.naturesfeast.datagen;
 
 import net.blockysphere.naturesfeast.block.ModBlocks;
 import net.blockysphere.naturesfeast.item.ModItems;
-import net.blockysphere.naturesfeast.villager.ModVillagers;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricLanguageProvider;
 
