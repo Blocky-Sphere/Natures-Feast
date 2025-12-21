@@ -15,9 +15,8 @@ import net.minecraft.village.VillagerProfession;
 import net.minecraft.world.poi.PointOfInterestType;
 
 public class ModVillagers {
-    public static final RegistryKey<PointOfInterestType> HunterPoi = poiKey("hunter_poi");
     public static final PointOfInterestType HUNTER_POI = registerPoi("hunter_poi", Blocks.BAMBOO_BLOCK);
-    public static final VillagerProfession HUNTER = registerProfession("hunter", HunterPoi);
+    public static final VillagerProfession HUNTER = registerProfession("hunter", poiKey("hunter_poi"));
     private static VillagerProfession registerProfession(String name, RegistryKey<PointOfInterestType> type) {
         return Registry.register(Registries.VILLAGER_PROFESSION, new Identifier(NaturesFeast.MOD_ID, name),
                 new VillagerProfession(name, entry -> entry.matchesKey(type), entry -> entry.matchesKey(type),
