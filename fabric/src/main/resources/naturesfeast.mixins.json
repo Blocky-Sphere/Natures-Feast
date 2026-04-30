@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.blockysphere.naturesfeast.fabric.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "PoiTypesAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

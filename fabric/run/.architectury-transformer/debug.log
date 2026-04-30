@@ -1,0 +1,378 @@
+[Architectury Transformer] Architectury Runtime 5.2.91
+[Architectury Transformer DEBUG] Closed File Systems for D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar
+[Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Provided 111 classpath jar(s):
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.19.2\cc647a5b22dbc49b9a3267cebcee25fc4882b108\fabric-loader-0.19.2.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\26.0.2\c7ce3cdeda3d18909368dfe5977332dfad326c6d\annotations-26.0.2.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.9\c29635c8a7afa03d74b33c1884df8abb2b3f3dcc\asm-9.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.9\bf4fa6e66638851c1cd22c2caea0c3ee5d5f437\asm-analysis-9.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.9\db9165a3bf908ded6b08612d583a15d1d0c7bda0\asm-commons-9.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.9\f8de6eead6d24dd0f45bd065bbe112b2cda6ea21\asm-tree-9.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.9\42fdfc0508b43807c8078d6e82ecff2ce2112ae8\asm-util-9.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\net.fabricmc\sponge-mixin\0.17.2+mixin.0.8.7\edf98d1d98229e46e36c61774ae2b54dcd852981\sponge-mixin-0.17.2+mixin.0.8.7.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-fabric\0.5.4\5e167154bcb9942111313a5e186e16cd7265f858\mixinextras-fabric-0.5.4.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\71.1\9e7d3304c23f9ba5cb71915f7cce23231a57a445\icu4j-71.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.15\7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d\httpcore-4.4.15.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.19.0\ea1b37f38c327596b216542bc636cfdc0b8036fa\log4j-api-2.19.0.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.19.0\3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb\log4j-core-2.19.0.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.1\f48d81adce2abf5ad3cfe463df517952749e03bc\slf4j-api-2.0.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-64066463a3\1.20.1-loom.mappings.1_20_1.layered+hash.40545-v2\minecraft-merged-64066463a3-1.20.1-loom.mappings.1_20_1.layered+hash.40545-v2.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.82.Final\c7350a71920f3ae9142945e25fed4846cce53374\netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar
+[Architectury Transformer DEBUG]  - D:\Ian\gradle\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.82.Final\476409d6255001ca53a55f65b01c13822f8dc93a\netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-65f153da\0.92.8+1.20.1\fabric-api-65f153da-0.92.8+1.20.1.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\dev\architectury\architectury-fabric-65f153da\9.2.14\architectury-fabric-65f153da-9.2.14.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-transfer-api-v1-65f153da\3.3.6+8dd72ea377\fabric-transfer-api-v1-65f153da-3.3.6+8dd72ea377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-lookup-api-v1-65f153da\1.6.37+1802ada577\fabric-api-lookup-api-v1-65f153da-1.6.37+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-blockrenderlayer-v1-65f153da\1.1.42+1802ada577\fabric-blockrenderlayer-v1-65f153da-1.1.42+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-client-tags-api-v1-65f153da\1.1.3+1802ada577\fabric-client-tags-api-v1-65f153da-1.1.3+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-command-api-v1-65f153da\1.2.35+f71b366f77\fabric-command-api-v1-65f153da-1.2.35+f71b366f77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-commands-v0-65f153da\0.2.52+df3654b377\fabric-commands-v0-65f153da-0.2.52+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-command-api-v2-65f153da\2.2.14+1802ada577\fabric-command-api-v2-65f153da-2.2.14+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-content-registries-v0-65f153da\4.0.13+1802ada577\fabric-content-registries-v0-65f153da-4.0.13+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-convention-tags-v1-65f153da\1.5.6+1802ada577\fabric-convention-tags-v1-65f153da-1.5.6+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-data-attachment-api-v1-65f153da\1.0.2+de0fd6d177\fabric-data-attachment-api-v1-65f153da-1.0.2+de0fd6d177.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-data-generation-api-v1-65f153da\12.3.8+1802ada577\fabric-data-generation-api-v1-65f153da-12.3.8+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-dimensions-v1-65f153da\2.1.55+1802ada577\fabric-dimensions-v1-65f153da-2.1.55+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-entity-events-v1-65f153da\1.6.1+1c78457f77\fabric-entity-events-v1-65f153da-1.6.1+1c78457f77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-events-interaction-v0-65f153da\0.6.5+13a40c6677\fabric-events-interaction-v0-65f153da-0.6.5+13a40c6677.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-gametest-api-v1-65f153da\1.2.15+1802ada577\fabric-gametest-api-v1-65f153da-1.2.15+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-events-lifecycle-v0-65f153da\0.2.64+df3654b377\fabric-events-lifecycle-v0-65f153da-0.2.64+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-item-api-v1-65f153da\2.1.29+1802ada577\fabric-item-api-v1-65f153da-2.1.29+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-item-group-api-v1-65f153da\4.0.14+1802ada577\fabric-item-group-api-v1-65f153da-4.0.14+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-mining-level-api-v1-65f153da\2.1.52+1802ada577\fabric-mining-level-api-v1-65f153da-2.1.52+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-lifecycle-events-v1-65f153da\2.2.23+1802ada577\fabric-lifecycle-events-v1-65f153da-2.2.23+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-loot-tables-v1-65f153da\1.1.47+9e7660c677\fabric-loot-tables-v1-65f153da-1.1.47+9e7660c677.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-loot-api-v2-65f153da\1.2.3+1802ada577\fabric-loot-api-v2-65f153da-1.2.3+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-message-api-v1-65f153da\5.1.10+1802ada577\fabric-message-api-v1-65f153da-5.1.10+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-models-v0-65f153da\0.4.3+9386d8a777\fabric-models-v0-65f153da-0.4.3+9386d8a777.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-model-loading-api-v1-65f153da\1.0.4+1802ada577\fabric-model-loading-api-v1-65f153da-1.0.4+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-recipe-api-v1-65f153da\1.0.24+1802ada577\fabric-recipe-api-v1-65f153da-1.0.24+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-registry-sync-v0-65f153da\2.4.0+4c0a70e677\fabric-registry-sync-v0-65f153da-2.4.0+4c0a70e677.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-screen-handler-api-v1-65f153da\1.3.33+1802ada577\fabric-screen-handler-api-v1-65f153da-1.3.33+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-containers-v0-65f153da\0.1.67+df3654b377\fabric-containers-v0-65f153da-0.1.67+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-networking-v0-65f153da\0.3.54+df3654b377\fabric-networking-v0-65f153da-0.3.54+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-networking-api-v1-65f153da\1.3.14+a158aa0477\fabric-networking-api-v1-65f153da-1.3.14+a158aa0477.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-object-builder-api-v1-65f153da\11.1.5+e35120df77\fabric-object-builder-api-v1-65f153da-11.1.5+e35120df77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-particles-v1-65f153da\1.1.3+1802ada577\fabric-particles-v1-65f153da-1.1.3+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-indigo-65f153da\1.5.3+85287f9f77\fabric-renderer-indigo-65f153da-1.5.3+85287f9f77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-api-v1-65f153da\3.2.2+1802ada577\fabric-renderer-api-v1-65f153da-3.2.2+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-fluids-v1-65f153da\3.0.29+1802ada577\fabric-rendering-fluids-v1-65f153da-3.0.29+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-renderer-registries-v1-65f153da\3.2.47+df3654b377\fabric-renderer-registries-v1-65f153da-3.2.47+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-v0-65f153da\1.1.50+df3654b377\fabric-rendering-v0-65f153da-1.1.50+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-v1-65f153da\3.0.9+1802ada577\fabric-rendering-v1-65f153da-3.0.9+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-screen-api-v1-65f153da\2.0.9+1802ada577\fabric-screen-api-v1-65f153da-2.0.9+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-api-base-65f153da\0.4.32+1802ada577\fabric-api-base-65f153da-0.4.32+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-biome-api-v1-65f153da\13.0.15+93aa238b77\fabric-biome-api-v1-65f153da-13.0.15+93aa238b77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-block-api-v1-65f153da\1.0.12+1802ada577\fabric-block-api-v1-65f153da-1.0.12+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-rendering-data-attachment-v1-65f153da\0.3.39+92a0d36777\fabric-rendering-data-attachment-v1-65f153da-0.3.39+92a0d36777.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-block-view-api-v2-65f153da\1.0.3+924f046a77\fabric-block-view-api-v2-65f153da-1.0.3+924f046a77.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-crash-report-info-v1-65f153da\0.2.20+1802ada577\fabric-crash-report-info-v1-65f153da-0.2.20+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-game-rule-api-v1-65f153da\1.0.41+1802ada577\fabric-game-rule-api-v1-65f153da-1.0.41+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-keybindings-v0-65f153da\0.2.36+df3654b377\fabric-keybindings-v0-65f153da-0.2.36+df3654b377.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-key-binding-api-v1-65f153da\1.0.38+1802ada577\fabric-key-binding-api-v1-65f153da-1.0.38+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-resource-conditions-api-v1-65f153da\2.3.9+1802ada577\fabric-resource-conditions-api-v1-65f153da-2.3.9+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-resource-loader-v0-65f153da\0.11.12+fb82e9d777\fabric-resource-loader-v0-65f153da-0.11.12+fb82e9d777.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-sound-api-v1-65f153da\1.0.14+1802ada577\fabric-sound-api-v1-65f153da-1.0.14+1802ada577.jar
+[Architectury Transformer DEBUG]  - D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1-65f153da\4.3.2+1802ada577\fabric-transitive-access-wideners-v1-65f153da-4.3.2+1802ada577.jar
+[Architectury Transformer] Read classpath in 1.194 s
+[Architectury Transformer DEBUG] Closed File Systems for D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar to C:\Users\YONYOO~1\AppData\Local\Temp\13684661430422765723.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@3eb25e1a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@477b4cdf
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@77c2494c
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@f5958c9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@233795b6
+[Architectury Transformer DEBUG] Transforming from D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar to C:\Users\YONYOO~1\AppData\Local\Temp\13684661430422765723.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/BirdCageBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/CajunFriedAlligatorBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/ChiliPepperCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/DuckSaladBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/EscargotsSnailsBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/GarlicCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/GlowingPastaBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/HorseFilletBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/MarinatedDuckBreastBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/NaturesFeastBannerBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/NaturesFeastWallBannerBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/PiperNigrumBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/RoastBearSteakBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/WholeBakedSeaBassBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/ModBlocks with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/WildCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/custom/BirdCageBlockEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/custom/NaturesFeastBannerBlockEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/ModBlockEntities with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/effect/custom/SpicyEffect with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/effect/ModEffects with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/AlligatorSaucePiquanteItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/BirdCageBlockItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/BlackPepperItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/CajunFriedAlligatorItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/ChiliPepperItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/DuckSaladItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/EscargotsSnailsItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/GarlicItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/GlowingPastaItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/HorseFilletItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/LemonadeItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/MarinatedDuckBreastItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/RoastBearSteakItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/VenisonStewItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/WholeBakedSeaBassItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModFoodComponents with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModItemGroups with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModItems with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/NaturesFeast with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/procedures/GetLemonFromJungleLeaves with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/renderer/NaturesFeastBannerRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModCustomTrades with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModLootTableModifiers with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModTags$Blocks with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModTags$Items with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModTags with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModVillagers with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/gen/ModWildCropGeneration with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/gen/ModWorldGeneration with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/ModConfiguredFeatures with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/ModPlacedFeatures with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\YONYOO~1\AppData\Local\Temp\13684661430422765723.jar
+[Architectury Transformer] Listening at D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\YONYOO~1\AppData\Local\Temp\13684661430422765723.jar] contains packages: net.blockysphere.naturesfeast.blockentities, net.blockysphere.naturesfeast.blockentities.custom, net.blockysphere.naturesfeast.world.gen, net.blockysphere.naturesfeast.item, net.blockysphere.naturesfeast, net.blockysphere.naturesfeast.renderer, net.blockysphere.naturesfeast.world, net.blockysphere.naturesfeast.util, net.blockysphere.naturesfeast.block.custom, net.blockysphere.naturesfeast.effect.custom, net.blockysphere.naturesfeast.procedures, net.blockysphere.naturesfeast.item.custom, net.blockysphere.naturesfeast.effect, net.blockysphere.naturesfeast.block
+[Architectury Transformer DEBUG] Closed File Systems for D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\devlibs\naturesfeast-common-1.0.0-1.20.1-dev.jar
+[Architectury Transformer DEBUG] Classpath entry [D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\fabric\build\classes\java\main] contains packages: net.blockysphere.naturesfeast.fabric.datagen, net.blockysphere.naturesfeast.fabric.mixin, net.blockysphere.naturesfeast.fabric.client, net.blockysphere.naturesfeast.fabric
+[Architectury Transformer DEBUG] Classpath entry [D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\fabric\build\resources\main] contains packages: 
+[Architectury Transformer DEBUG] Classpath entry [D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\classes\java\main] contains packages: net.blockysphere.naturesfeast.blockentities.custom, net.blockysphere.naturesfeast.blockentities, net.blockysphere.naturesfeast.world.gen, net.blockysphere.naturesfeast.item, net.blockysphere.naturesfeast, net.blockysphere.naturesfeast.renderer, net.blockysphere.naturesfeast.util, net.blockysphere.naturesfeast.world, net.blockysphere.naturesfeast.block.custom, net.blockysphere.naturesfeast.effect.custom, net.blockysphere.naturesfeast.item.custom, net.blockysphere.naturesfeast.procedures, net.blockysphere.naturesfeast.effect, net.blockysphere.naturesfeast.block
+[Architectury Transformer] Removing duplicate classpath entry: D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\classes\java\main
+[Architectury Transformer DEBUG] Classpath entry [D:\Ian\My Mods\Nature's Feast Forge-Fabric-1.20.1\common\build\resources\main] contains packages: 
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/NaturesFeast.class to net/blockysphere/naturesfeast/NaturesFeast.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/NaturesFeast with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/NaturesFeast in 1.157 ms
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/util/ModVillagers.class to net/blockysphere/naturesfeast/util/ModVillagers.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModVillagers with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/util/ModVillagers in 676.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/blockentities/ModBlockEntities.class to net/blockysphere/naturesfeast/blockentities/ModBlockEntities.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/ModBlockEntities with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/blockentities/ModBlockEntities in 546.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/blockentities/custom/NaturesFeastBannerBlockEntity.class to net/blockysphere/naturesfeast/blockentities/custom/NaturesFeastBannerBlockEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/custom/NaturesFeastBannerBlockEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/blockentities/custom/NaturesFeastBannerBlockEntity in 532.8 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/ModBlocks.class to net/blockysphere/naturesfeast/block/ModBlocks.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/ModBlocks with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/ModBlocks in 1.073 ms
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/GarlicCropBlock.class to net/blockysphere/naturesfeast/block/custom/GarlicCropBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/GarlicCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/GarlicCropBlock in 523.2 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/ChiliPepperCropBlock.class to net/blockysphere/naturesfeast/block/custom/ChiliPepperCropBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/ChiliPepperCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/ChiliPepperCropBlock in 463.8 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/PiperNigrumBlock.class to net/blockysphere/naturesfeast/block/custom/PiperNigrumBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/PiperNigrumBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/PiperNigrumBlock in 511.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/HorseFilletBlock.class to net/blockysphere/naturesfeast/block/custom/HorseFilletBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/HorseFilletBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/HorseFilletBlock in 529.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/GlowingPastaBlock.class to net/blockysphere/naturesfeast/block/custom/GlowingPastaBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/GlowingPastaBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/GlowingPastaBlock in 564.1 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/MarinatedDuckBreastBlock.class to net/blockysphere/naturesfeast/block/custom/MarinatedDuckBreastBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/MarinatedDuckBreastBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/MarinatedDuckBreastBlock in 694.5 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/DuckSaladBlock.class to net/blockysphere/naturesfeast/block/custom/DuckSaladBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/DuckSaladBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/DuckSaladBlock in 758.1 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/WildCropBlock.class to net/blockysphere/naturesfeast/block/WildCropBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/WildCropBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/WildCropBlock in 416.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/CajunFriedAlligatorBlock.class to net/blockysphere/naturesfeast/block/custom/CajunFriedAlligatorBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/CajunFriedAlligatorBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/CajunFriedAlligatorBlock in 531.2 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/NaturesFeastWallBannerBlock.class to net/blockysphere/naturesfeast/block/custom/NaturesFeastWallBannerBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/NaturesFeastWallBannerBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/NaturesFeastWallBannerBlock in 585.4 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/BirdCageBlock.class to net/blockysphere/naturesfeast/block/custom/BirdCageBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/BirdCageBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/BirdCageBlock in 1.075 ms
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/EscargotsSnailsBlock.class to net/blockysphere/naturesfeast/block/custom/EscargotsSnailsBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/EscargotsSnailsBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/EscargotsSnailsBlock in 610.6 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/RoastBearSteakBlock.class to net/blockysphere/naturesfeast/block/custom/RoastBearSteakBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/RoastBearSteakBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/RoastBearSteakBlock in 740.1 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/WholeBakedSeaBassBlock.class to net/blockysphere/naturesfeast/block/custom/WholeBakedSeaBassBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/WholeBakedSeaBassBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/WholeBakedSeaBassBlock in 547.4 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/block/custom/NaturesFeastBannerBlock.class to net/blockysphere/naturesfeast/block/custom/NaturesFeastBannerBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/block/custom/NaturesFeastBannerBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/block/custom/NaturesFeastBannerBlock in 473.8 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/ModFoodComponents.class to net/blockysphere/naturesfeast/item/ModFoodComponents.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModFoodComponents with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/ModFoodComponents in 798.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/blockentities/custom/BirdCageBlockEntity.class to net/blockysphere/naturesfeast/blockentities/custom/BirdCageBlockEntity.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/blockentities/custom/BirdCageBlockEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/blockentities/custom/BirdCageBlockEntity in 499.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/ModItems.class to net/blockysphere/naturesfeast/item/ModItems.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModItems with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/ModItems in 2.330 ms
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/GarlicItem.class to net/blockysphere/naturesfeast/item/custom/GarlicItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/GarlicItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/GarlicItem in 804.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/CajunFriedAlligatorItem.class to net/blockysphere/naturesfeast/item/custom/CajunFriedAlligatorItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/CajunFriedAlligatorItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/CajunFriedAlligatorItem in 824.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/BlackPepperItem.class to net/blockysphere/naturesfeast/item/custom/BlackPepperItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/BlackPepperItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/BlackPepperItem in 344.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/RoastBearSteakItem.class to net/blockysphere/naturesfeast/item/custom/RoastBearSteakItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/RoastBearSteakItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/RoastBearSteakItem in 700.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/HorseFilletItem.class to net/blockysphere/naturesfeast/item/custom/HorseFilletItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/HorseFilletItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/HorseFilletItem in 582.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/ChiliPepperItem.class to net/blockysphere/naturesfeast/item/custom/ChiliPepperItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/ChiliPepperItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/ChiliPepperItem in 602.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/EscargotsSnailsItem.class to net/blockysphere/naturesfeast/item/custom/EscargotsSnailsItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/EscargotsSnailsItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/EscargotsSnailsItem in 792.2 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/AlligatorSaucePiquanteItem.class to net/blockysphere/naturesfeast/item/custom/AlligatorSaucePiquanteItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/AlligatorSaucePiquanteItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/AlligatorSaucePiquanteItem in 564.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/LemonadeItem.class to net/blockysphere/naturesfeast/item/custom/LemonadeItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/LemonadeItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/LemonadeItem in 344.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/WholeBakedSeaBassItem.class to net/blockysphere/naturesfeast/item/custom/WholeBakedSeaBassItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/WholeBakedSeaBassItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/WholeBakedSeaBassItem in 483.7 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/DuckSaladItem.class to net/blockysphere/naturesfeast/item/custom/DuckSaladItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/DuckSaladItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/DuckSaladItem in 645.5 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/MarinatedDuckBreastItem.class to net/blockysphere/naturesfeast/item/custom/MarinatedDuckBreastItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/MarinatedDuckBreastItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/MarinatedDuckBreastItem in 657.8 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/VenisonStewItem.class to net/blockysphere/naturesfeast/item/custom/VenisonStewItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/VenisonStewItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/VenisonStewItem in 560.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/GlowingPastaItem.class to net/blockysphere/naturesfeast/item/custom/GlowingPastaItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/GlowingPastaItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/GlowingPastaItem in 644.6 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/custom/BirdCageBlockItem.class to net/blockysphere/naturesfeast/item/custom/BirdCageBlockItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/custom/BirdCageBlockItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/custom/BirdCageBlockItem in 1.033 ms
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/effect/ModEffects.class to net/blockysphere/naturesfeast/effect/ModEffects.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/effect/ModEffects with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/effect/ModEffects in 431.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/effect/custom/SpicyEffect.class to net/blockysphere/naturesfeast/effect/custom/SpicyEffect.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/effect/custom/SpicyEffect with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/effect/custom/SpicyEffect in 536.3 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/item/ModItemGroups.class to net/blockysphere/naturesfeast/item/ModItemGroups.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/item/ModItemGroups with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/item/ModItemGroups in 599.2 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/world/gen/ModWorldGeneration.class to net/blockysphere/naturesfeast/world/gen/ModWorldGeneration.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/gen/ModWorldGeneration with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/world/gen/ModWorldGeneration in 257.7 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/world/gen/ModWildCropGeneration.class to net/blockysphere/naturesfeast/world/gen/ModWildCropGeneration.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/gen/ModWildCropGeneration with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/world/gen/ModWildCropGeneration in 521.0 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/util/ModCustomTrades.class to net/blockysphere/naturesfeast/util/ModCustomTrades.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModCustomTrades with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/util/ModCustomTrades in 871.1 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/util/ModLootTableModifiers.class to net/blockysphere/naturesfeast/util/ModLootTableModifiers.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/util/ModLootTableModifiers with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/util/ModLootTableModifiers in 723.6 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/procedures/GetLemonFromJungleLeaves.class to net/blockysphere/naturesfeast/procedures/GetLemonFromJungleLeaves.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/procedures/GetLemonFromJungleLeaves with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/procedures/GetLemonFromJungleLeaves in 810.9 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/renderer/NaturesFeastBannerRenderer.class to net/blockysphere/naturesfeast/renderer/NaturesFeastBannerRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/renderer/NaturesFeastBannerRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/renderer/NaturesFeastBannerRenderer in 780.1 μs
+[Architectury Transformer DEBUG] Transforming from net/blockysphere/naturesfeast/world/ModPlacedFeatures.class to net/blockysphere/naturesfeast/world/ModPlacedFeatures.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/blockysphere/naturesfeast/world/ModPlacedFeatures with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/blockysphere/naturesfeast/world/ModPlacedFeatures in 803.9 μs

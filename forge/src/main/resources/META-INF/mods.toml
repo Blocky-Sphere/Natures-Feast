@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "Insert License Here"
+
+[[mods]]
+modId = "naturesfeast"
+version = "${version}"
+displayName = "[Let's Do] Nature's Feast"
+authors = "Blocky_Sphere!"
+description = '''
+Go for a hunt and enjoy the delicious meals! :)
+'''
+#logoFile = ""
+
+[[dependencies.naturesfeast]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.naturesfeast]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.naturesfeast]]
+modId = "architectury"
+mandatory = true
+versionRange = "[9.2.14,)"
+ordering = "AFTER"
+side = "BOTH"

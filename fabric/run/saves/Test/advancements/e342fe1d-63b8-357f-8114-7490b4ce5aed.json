@@ -1,0 +1,45 @@
+{
+  "naturesfeast:recipes/food/cooked_snake_from_smoking": {
+    "criteria": {
+      "has_snake": "2026-04-25 12:46:35 +0900"
+    },
+    "done": true
+  },
+  "naturesfeast:recipes/food/cooked_snake_from_campfire": {
+    "criteria": {
+      "has_snake": "2026-04-25 12:46:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2026-04-25 12:47:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-04-25 12:46:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-04-25 12:46:16 +0900"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-25 12:46:37 +0900"
+    },
+    "done": true
+  },
+  "naturesfeast:recipes/food/cooked_snake_from_smelting": {
+    "criteria": {
+      "has_snake": "2026-04-25 12:46:35 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

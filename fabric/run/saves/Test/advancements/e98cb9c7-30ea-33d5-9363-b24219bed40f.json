@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2026-04-29 13:29:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-04-29 13:28:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-29 13:29:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-04-29 13:28:44 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

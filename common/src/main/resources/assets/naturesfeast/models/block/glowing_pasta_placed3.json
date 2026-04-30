@@ -1,0 +1,36 @@
+{
+	"format_version": "1.9.0",
+	"credit": "By Blockysphere, using Blockbench",
+	"textures": {
+		"0": "naturesfeast:block/glowing_pasta_placed",
+		"particle": "naturesfeast:item/glowing_pasta_particle"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 1, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 9.14286, 9.14286, 9.90476], "texture": "#0"},
+				"east": {"uv": [0, 9.90476, 9.14286, 10.66667], "texture": "#0"},
+				"south": {"uv": [9.14286, 9.14286, 0, 9.90476], "texture": "#0"},
+				"west": {"uv": [0, 10.66667, 9.14286, 11.42857], "texture": "#0"},
+				"up": {"uv": [0, 0, 9.14286, 9.14286], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 9.14286, 9.14286], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [8, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 1, 5]},
+			"faces": {
+				"north": {"uv": [11.42857, 12.95238, 13.71429, 14.4762], "texture": "#0"},
+				"east": {"uv": [4.57143, 14.47619, 9.14286, 16], "texture": "#0"},
+				"south": {"uv": [4.57143, 12.19047, 6.85715, 13.71429], "texture": "#0"},
+				"west": {"uv": [4.57143, 12.19047, 9.14286, 13.71429], "texture": "#0"},
+				"up": {"uv": [9.14286, 8.38095, 11.42858, 12.95238], "texture": "#0"},
+				"down": {"uv": [9.14286, 8.38095, 11.42858, 12.95238], "texture": "#0"}
+			}
+		}
+	]
+}

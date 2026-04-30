@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "naturesfeast:block/bird_cage" },
+    "facing=east":  { "model": "naturesfeast:block/bird_cage", "y": 90  },
+    "facing=south": { "model": "naturesfeast:block/bird_cage", "y": 180 },
+    "facing=west":  { "model": "naturesfeast:block/bird_cage", "y": 270 }
+  }
+}
