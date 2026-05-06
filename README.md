@@ -39,15 +39,15 @@ Find beautiful birds and keep them in your house!
 
 <br><br>
 
+<p align="center">
+  <a href="https://github.com/Blocky-Sphere/Natures-Feast">Github</a> ・
+    <a href="https://modrinth.com/user/Blocky_Sphere">Modrinth</a>
+</p>
+
 ## The Let’s Do Collection
 
 <p align="center">
   <a href="https://lets-do.ch/mods/" target="_blank">
     <img src="https://github.com/Let-s-Do-Collection/Let-s-Do-Collection/raw/main/LOGO.png?raw=true" width="420" alt="The Let’s Do Collection">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Blocky-Sphere/Natures-Feast">Github</a> ・
-    <a href="https://modrinth.com/user/Blocky_Sphere">Modrinth</a>
 </p>
