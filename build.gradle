@@ -4,6 +4,8 @@ plugins {
     id 'com.gradleup.shadow' version '8.3.6' apply false
 }
 
+apply plugin: 'base'
+
 architectury {
     minecraft = project.minecraft_version
 }
@@ -67,4 +69,33 @@ subprojects {
             // retrieving dependencies.
         }
     }
+}
+
+// Put Jars Into Root Project's libs
+tasks.register('collectModJars') {
+    group = 'build'
+    description = 'Collects final production Forge and Fabric JARs into the root folder.'
+    dependsOn subprojects.collect { it.tasks.matching { t -> t.name == 'build' } }
+    doLast {
+        subprojects.each { subproject ->
+            if (subproject.name == 'common') return
+            def libsDir = subproject.layout.buildDirectory.dir("libs").get().asFile
+            if (libsDir.exists()) {
+                libsDir.eachFile { file ->
+                    if (file.name.endsWith('.jar') &&
+                            !file.name.contains('-sources') &&
+                            !file.name.contains('-dev')) {
+
+                        copy {
+                            from file
+                            into "${rootProject.layout.buildDirectory.get().asFile}/libs"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+tasks.named('build') {
+    finalizedBy('collectModJars')
 }
