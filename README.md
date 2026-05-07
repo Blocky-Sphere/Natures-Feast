@@ -1,8 +1,8 @@
-<p align="center">
-    <img src="https://github.com/Blocky-Sphere/Natures-Feast/blob/master/mod_title.png?raw=true" width="80%" />
+<p style="text-align: center;">
+    <img src="https://github.com/Blocky-Sphere/Natures-Feast/blob/master/mod_title.png?raw=true" width="80%" alt="">
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <strong>Nature's Foods</strong><br>
   <em>Made With Nature's Ingredients</em>
 </p>
@@ -39,14 +39,14 @@ Find beautiful birds and keep them in your house!
 
 <br><br>
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://github.com/Blocky-Sphere/Natures-Feast">Github</a> ・
     <a href="https://modrinth.com/user/Blocky_Sphere">Modrinth</a>
 </p>
 
 ## The Let’s Do Collection
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://lets-do.ch/mods/" target="_blank">
     <img src="https://github.com/Let-s-Do-Collection/Let-s-Do-Collection/raw/main/LOGO.png?raw=true" width="420" alt="The Let’s Do Collection">
   </a>
