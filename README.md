@@ -20,7 +20,7 @@ Let's jump into a world and start cooking!
 
 ## New Ingredients
 
-- New Meats
+- New Meats & Mob Drops
 - Chili Pepper
 - Garlic
 - Black Pepper
